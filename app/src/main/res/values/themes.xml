@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AlFalakMain" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="CalenderViewCustom" >
+        <item name="colorAccent">@color/purple_500</item>
+    </style>
+</resources>
