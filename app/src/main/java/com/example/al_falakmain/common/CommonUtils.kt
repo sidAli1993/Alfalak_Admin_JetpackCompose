@@ -1,7 +1,7 @@
 package com.example.al_falakmain.common
 
 import androidx.navigation.NavHostController
-import com.example.al_falakmain.routes.Routes
+import com.example.al_falakmain.ui.routes.Routes
 
 fun navigateToScreens(navHostController: NavHostController, value:String){
     when(value.lowercase()){
